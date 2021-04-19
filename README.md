@@ -1,14 +1,13 @@
 # Baroque
 
-## A warm color theme based on Baroque paintings by Peter Paul Rubens
+### A warm color theme based on Baroque paintings by Peter Paul Rubens
 
 ![Lion Hunt](/img/lion.jpg)
 
 ![Code](/img/baroque.png)
 
----
 
-## Key Colors:
+### Key Colors:
 
 - Iron: `#242322`
 - Sand: `#bcb28d`
