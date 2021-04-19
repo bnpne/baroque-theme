@@ -1,0 +1,21 @@
+{
+  "name": "baroque",
+  "displayName": "Baroque",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Baroque",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Baroque-color-theme.json"
+      }
+    ]
+  }
+}
